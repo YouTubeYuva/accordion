@@ -1,0 +1,24 @@
+.accordion-item {
+    border: 1px solid white;
+    border-radius: 5px;
+    margin: 10px;            
+    width:300px;           
+  }
+  .accordion-question {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px;
+    background-color: pink;
+    cursor: pointer;
+  }
+  
+  
+  .accordion-answer {
+    padding: 15px;
+    background-color: greenyellow;
+  }
+  
+  .accordion-title div {
+    font-size: 16px;
+  }
